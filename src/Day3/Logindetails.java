@@ -1,3 +1,5 @@
+package Day3;
+
 import java.util.Scanner;
 class Logindetails{
     public static void main(String[]args){

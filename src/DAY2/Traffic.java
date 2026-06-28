@@ -1,3 +1,5 @@
+package DAY2;
+
 import java.util.Scanner;
 class Traffic {
     public static void main(String[] args) {
