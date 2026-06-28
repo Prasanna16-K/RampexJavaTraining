@@ -1,3 +1,5 @@
+package DAY1;
+
 class Division {
     public static void main(String[] args) {
         int a = 10;

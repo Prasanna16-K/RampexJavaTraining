@@ -1,3 +1,5 @@
+package DAY1;
+
 public class UpperLowercase {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package DAY1;
+
 class ReverseNumber {
     public static void main(String[] args) {
         int num = 123;  // Change this to any 3-digit number
