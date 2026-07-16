@@ -23,10 +23,5 @@ public class RemovingDuplicates {
 
         }
         System.out.println(b);
-
-
     }
-
-
-
 }
